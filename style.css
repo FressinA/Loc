@@ -1,0 +1,11 @@
+@media (max-width: 600px) {
+    #map {
+        height: 200px; /* Réduire la hauteur sur les petits écrans */
+        width: 100%;   /* Faire la carte occuper toute la largeur */
+    }
+}
+
+#map {
+    height: 300px;
+    width: 50%;
+}
